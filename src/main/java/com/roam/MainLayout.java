@@ -8,7 +8,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.*;
 import javafx.scene.text.Font;
 import javafx.util.Duration;
-
+/// Joy is very hulululul
 public class MainLayout extends BorderPane {
 
     private final Font regularFont;
